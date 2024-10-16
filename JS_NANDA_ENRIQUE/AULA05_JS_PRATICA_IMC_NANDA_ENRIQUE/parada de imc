@@ -1,0 +1,7 @@
+IMC= PESO/ALTURA*ALTURA
+
+-Abaixo de 17 = Muito abaixo ddo peso
+-Entre 17 e 18,49 = Abaixo do peso
+-Entre 18,50 e 24,99 = Peso normal
+-Entre 25 e 29,99 = Acima do peso
+-Acima de 30 = Obesidade
